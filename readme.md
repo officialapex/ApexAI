@@ -76,17 +76,17 @@ Submit a pull request with a clear description of your changes.
 ## 🧩 FAQ
 What is ApexAI?
 
-ApexAI is an AI-powered cryptocurrency trading platform that offers tools for market analysis, trading automation, and portfolio management.
+- ApexAI is an AI-powered cryptocurrency trading platform that offers tools for market analysis, trading automation, and portfolio management.
 
 Is ApexAI free to use?
 
-Yes, ApexAI is open-source. However, some premium features may be introduced in future versions.
+- Yes, ApexAI is open-source. However, some premium features may be introduced in future versions.
 
 Which blockchains does ApexAI support?
 
-Currently, ApexAI supports Solana and is actively working on adding Ethereum and Binance Smart Chain.
+- Currently, ApexAI supports Solana and is actively working on adding Ethereum and Binance Smart Chain.
 
 Can I use ApexAI for stock trading?
 
-ApexAI is focused on cryptocurrency trading but plans to expand to other asset classes in the future.
+- ApexAI is focused on cryptocurrency trading but plans to expand to other asset classes in the future.
 
