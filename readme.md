@@ -43,25 +43,29 @@ ApexAI delivers AI-intelligent, real-time trading solutions that simplify and el
    ```bash
    git clone https://github.com/yourusername/apex-ai.git
    cd apex-ai
-🛠️ Tech Stack
-ApexAI integrates state-of-the-art technologies to provide a seamless trading experience:
+   
+## 🛠️ Tech Stack
+###ApexAI integrates state-of-the-art technologies to provide a seamless trading experience:
 
 AI Models: Powered by Llama 3 (70B) for deep market analysis.
 Back-End Framework: Flask for building robust APIs and services.
 APIs: TradingView, Binance, CoinGecko for real-time market data.
 Blockchain Integrations: Jupiter and Jito for multi-chain trading.
 Deployment Tools: Docker and Kubernetes for scalable cloud deployments.
-🎯 Use Cases
+
+##🎯 Use Cases
 For Beginners: Start trading with user-friendly tools and automated bots that guide decision-making.
 For Professionals: Access advanced analytics and multi-chain compatibility to enhance your strategies.
 For Teams: Collaborate seamlessly with real-time tools to build effective trading strategies.
-🛡️ Security
+
+##🛡️ Security
 ApexAI ensures a secure trading experience with the following measures:
 
 Secure API Integrations: All API requests are encrypted and authenticated.
 Two-Factor Authentication (2FA): For enhanced account security (coming soon).
 Bug Reporting Program: Report security issues responsibly.
-🤝 Contributing
+
+##🤝 Contributing
 We welcome contributions to improve ApexAI! Here's how you can get involved:
 
 Fork the repository.
@@ -69,9 +73,7 @@ Create a new branch (feature/my-feature).
 Commit your changes and push them to your fork.
 Submit a pull request with a clear description of your changes.
 
-.
-
-🧩 FAQ
+## 🧩 FAQ
 What is ApexAI?
 ApexAI is an AI-powered cryptocurrency trading platform that offers tools for market analysis, trading automation, and portfolio management.
 
