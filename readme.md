@@ -53,19 +53,19 @@ APIs: TradingView, Binance, CoinGecko for real-time market data.
 Blockchain Integrations: Jupiter and Jito for multi-chain trading.
 Deployment Tools: Docker and Kubernetes for scalable cloud deployments.
 
-##🎯 Use Cases
+## 🎯 Use Cases
 For Beginners: Start trading with user-friendly tools and automated bots that guide decision-making.
 For Professionals: Access advanced analytics and multi-chain compatibility to enhance your strategies.
 For Teams: Collaborate seamlessly with real-time tools to build effective trading strategies.
 
-##🛡️ Security
+## 🛡️ Security
 ApexAI ensures a secure trading experience with the following measures:
 
 Secure API Integrations: All API requests are encrypted and authenticated.
 Two-Factor Authentication (2FA): For enhanced account security (coming soon).
 Bug Reporting Program: Report security issues responsibly.
 
-##🤝 Contributing
+## 🤝 Contributing
 We welcome contributions to improve ApexAI! Here's how you can get involved:
 
 Fork the repository.
